@@ -26,7 +26,7 @@ Ce projet est construit avec :
 
 1. Cloner le projet :
    ```bash
-   git clone <votre-url-repo>
+   git clone <(https://github.com/Marcel520-pro/Generateur_CV.git)>
    cd generateur-cv
    ```
 
